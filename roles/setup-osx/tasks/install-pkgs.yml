@@ -9,3 +9,4 @@
   homebrew_cask:
     name: "{{ homebrew_cask_pkgs }}"
     state: upgraded
+  ignore_errors: yes
