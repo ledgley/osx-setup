@@ -4,6 +4,8 @@ homebrew_pkgs:
   - git
   - vim
   - tree
+  - wget
+  - curl
   
 
 homebrew_cask_pkgs:
