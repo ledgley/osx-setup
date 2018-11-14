@@ -1,0 +1,16 @@
+---
+
+homebrew_pkgs:
+  - git
+  - vim
+  - tree
+  
+
+homebrew_cask_pkgs:
+  - google-chrome
+  - virtual-box
+  - vagrant
+  - vagrant-manager
+  - sublime-text
+  - visual-studio-code
+  - postman
