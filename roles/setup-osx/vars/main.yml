@@ -2,11 +2,9 @@
 
 homebrew_pkgs:
   - git
-  - vim
   - tree
   - wget
-  - curl
-  
+  - curl  
 
 homebrew_cask_pkgs:
   - google-chrome

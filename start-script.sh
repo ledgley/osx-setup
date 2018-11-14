@@ -33,4 +33,4 @@ fi
 #yes | /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 #Run the Ansible playbook to install required packages.
-ansible-playbook -K ~/osx-setup/install-pkgs.yml
+ansible-playbook -i 127.0.0.1 -K playbook.yml
