@@ -13,7 +13,7 @@ type -p pip --version > /dev/null
 
 if [ $? -ne 0 ]; then
 	echo -e "Pip is not installed - now installing"
-	sudo sudo -H easy_install pip
+	sudo -H easy_install pip
 else
 	echo "Pip is already installed"
 fi

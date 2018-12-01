@@ -7,7 +7,7 @@ homebrew_pkgs:
   - curl  
 
 homebrew_cask_pkgs:
-  - virtual-box
+  - virtualbox
   - vagrant
   - vagrant-manager
   - sublime-text
@@ -15,3 +15,4 @@ homebrew_cask_pkgs:
   - postman
   - google-chrome
   - slack
+  - citrix-workspace
