@@ -16,3 +16,7 @@ homebrew_cask_pkgs:
   - google-chrome
   - slack
   - citrix-workspace
+  - iterm2
+  - spotify
+  - wireshark
+  - dashlane
